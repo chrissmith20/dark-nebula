@@ -1,5 +1,12 @@
 append = (arr, item) => {
-
+  debugger
+  arr.push(10)
+//   let finArr = []
+//   arr.forEach((newArr) => {
+//     newArr.push(10)
+//     console.log(newArr)
+// })
+  console.log(arr)
 };
 
 truncate = (arr) => {
